@@ -108,7 +108,7 @@ run.light = function(x, model, light.effect, period){
   #   return(extinctions)
 }
 
-run.light.gradient = function(light.effect, t1, t2, S, n_basal, n_species, n_nuts, masses, biomasses, period, fw){
+run.light.gradient = function(light.effect, t1, t2, S, n_basal, n_species, n_nuts, masses, biomasses, period, rep){
   # run a light intensity gradient at 2 temperatures, 
   # create the L matrix
   L <- create_Lmatrix(masses, n_basal, Ropt = 100, gamma = 2, th = 0.01)
