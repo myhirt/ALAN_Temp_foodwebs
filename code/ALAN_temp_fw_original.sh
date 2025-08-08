@@ -1,7 +1,6 @@
 #!/bin/bash
 
 #SBATCH --job-name=ALAN_temp_fw_original
-#SBATCH --chdir=/work/hirtm
 #SBATCH --output=/work/%u/%x-%A-%a.out
 #SBATCH --time=0-01:00:00
 #SBATCH --mem-per-cpu=1G
@@ -17,6 +16,6 @@ cd /home/$USER/ALAN_Temp_foodwebs/code
 
 Rscript \
   --vanilla \
-  ALAN_code_benoit_original.R \
+  HPC_ALAN_code_benoit_original.R \
   $params \
   $output_dir
