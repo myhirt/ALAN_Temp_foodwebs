@@ -5,9 +5,9 @@ setwd(dirname(getActiveDocumentContext()$path))
 set.seed(123)
 
 #########  generate parameter list: ###################
-reps = 10
+reps = 100
 effects = c('N', 'C', 'C.N', 'N.D')
-temps = c(15, 20)
+temps = c(30, 35)
 S.all = c(1)
 n_species <- 60
 n_basal <- 20
