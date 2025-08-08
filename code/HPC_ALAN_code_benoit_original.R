@@ -61,7 +61,7 @@ for (light.effect in light.effects) {
 combined_results <- do.call(rbind, results_list)
 
 write.csv(
-  res,
+  combined_results,
   file.path(
     opts$output_dir,
     paste0("light_effect_", light.effect, "fw_", fw, ".csv")
