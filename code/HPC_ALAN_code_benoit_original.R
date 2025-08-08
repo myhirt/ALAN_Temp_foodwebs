@@ -14,7 +14,7 @@ output_dir <- opts$output_dir
 ## try to get task id
 task <- as.integer(Sys.getenv("SLURM_ARRAY_TASK_ID"))
 
-fw <- params[task]$fw
+rep <- params[task]$fw
 t1 <- params[task]$t1
 t2 <- params[task]$t2
 S <- params[task]$S
@@ -47,12 +47,12 @@ for (light.effect in light.effects) {
     masses = masses,
     biomasses = biomasses,
     period = period,
-    fw = fw
+    rep = rep
   )
   
   # Add light.effect and fw info to result
   res$light.effect <- light.effect
-  res$fw <- fw
+  res$rep <- rep
   
   results_list[[light.effect]] <- res
   print(sapply(results_list, nrow))

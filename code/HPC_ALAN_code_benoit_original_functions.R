@@ -110,7 +110,6 @@ run.light = function(x, model, light.effect, period){
 
 run.light.gradient = function(light.effect, t1, t2, S, n_basal, n_species, n_nuts, masses, biomasses, period, fw){
   # run a light intensity gradient at 2 temperatures, 
-  n_cons = n_species - n_basal
   # create the L matrix
   L <- create_Lmatrix(masses, n_basal, Ropt = 100, gamma = 2, th = 0.01)
   # create the 0/1 version of the food web
@@ -133,7 +132,7 @@ run.light.gradient = function(light.effect, t1, t2, S, n_basal, n_species, n_nut
   
   exts.t1 = sapply(light, run.light, model, 
                    light.effect = light.effect, period = period)
-  res1 = cbind.data.frame(t(exts.t1), light, t1, light.effect, S, fw)
+  res1 = cbind.data.frame(t(exts.t1), light, t1, light.effect, S, rep)
   names(res1) = c("tot_ext", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
                   "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x", 
                   "light", "temperature", "light.effect", "S", "fw")
@@ -143,7 +142,7 @@ run.light.gradient = function(light.effect, t1, t2, S, n_basal, n_species, n_nut
   model$q = rep(1.2, n_species - n_basal)
   exts.t2 = sapply(light, run.light, model, 
                    light.effect = light.effect, period = period)
-  res2 = cbind.data.frame(t(exts.t2), light, t2, light.effect, S, fw)
+  res2 = cbind.data.frame(t(exts.t2), light, t2, light.effect, S, rep)
   names(res2) = c("tot_ext", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
                   "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x",
                   "light", "temperature", "light.effect", "S", "fw")
