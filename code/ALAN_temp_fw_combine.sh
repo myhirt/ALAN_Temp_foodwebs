@@ -7,7 +7,7 @@
 
 module load foss/2022b R/4.2.2
 
-cd /home/$USER/ALAN_temp_fw_original/code
+cd /home/$USER/ALAN_Temp_foodwebs/code
 
 Rscript \
   --vanilla \
