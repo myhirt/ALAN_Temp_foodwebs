@@ -6,7 +6,7 @@
 #SBATCH --mem-per-cpu=1G
 
 module load foss/2022b R/4.2.2
-
+input_dir=/work/$USER/ALAN_temp_fw_original
 cd /home/$USER/ALAN_Temp_foodwebs/code
 
 Rscript \

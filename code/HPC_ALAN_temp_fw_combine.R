@@ -1,11 +1,11 @@
 #------------ Load all packages ------------
 suppressPackageStartupMessages(library(tidyverse))
 
-# Set the folder path
-folder_path <- "../../ALAN_temp_fw_original"
+# # Set the folder path
+# folder_path <- "../../ALAN_temp_fw_original"
 
 # Get list of all CSV files in the folder
-csv_files <- list.files(path = folder_path, pattern = "\\.csv$", full.names = TRUE)
+csv_files <- list.files(path = input_dir, pattern = "\\.csv$", full.names = TRUE)
 
 # Read and combine all CSV files into one dataframe
 combined_df <- csv_files %>%
