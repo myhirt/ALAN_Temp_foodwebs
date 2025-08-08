@@ -60,15 +60,11 @@ overlap.modification = function(x, diel.groups, light.scenario = "control"){
 #   Biomass remaining in each group
 
 
-sim.ALAN <- function(x, masses, biomasses, n_basal, n_nut,  probs, light.scenario, diel_group, temp) {
+sim.ALAN <- function(x, model, light.scenario, diel_group, temp) {
   # x: overlap modification intensity (0 to 0.5)
   # light.scenario: diel groups affected by light pollution
   # diel_group_fw: diel group (N, D, C) of each consumer species
   # Create L matrix and food web structure
-  L <- create_Lmatrix(masses, n_basal, Ropt = 100, gamma = 2, th = 0.01)
-  fw <- (L > 0) * 1  # binary adjacency matrix
-  
-  model <- create_model_Unscaled_nuts(n_species, n_basal, n_nut, masses, fw)
   model <- initialise_default_Unscaled_nuts(model, L, temperature = temp)
   model$S = rep(2, n_nut)
   
@@ -78,40 +74,56 @@ sim.ALAN <- function(x, masses, biomasses, n_basal, n_nut,  probs, light.scenari
   model$w[model$w != 0] <- 1
   new.basals = sum(colSums(model$b) == 0)
   if (new.basals > 0){print(new.basals)}
-  
   # Exit early if modification disconnects consumers from all basal resources
-  if (any(colSums(model$b) == 0)) return(NULL)
-  
-  times <- seq(0, 1000, 100)
-  
-  # Run dynamics with timeout protection
+  if (any(colSums(model$b) == 0)) {
+      return(data.frame(
+        tot.pers = NA, basal.pers = NA, night.pers = NA, crep.pers = NA, day.pers = NA,
+        basal.bioms = NA, night.biom = NA, cresp.biom = NA, day.biom = NA,
+        x = x, light.scenario = light.scenario, temp = temp
+      ))
+    }
+  times <- seq(0, 100000, 100)
   tryCatch({
-    R.utils::withTimeout({
-      ts <- lsoda_wrapper(times, biomasses, model, verbose = FALSE)
-      final <- ts[nrow(ts), (n_nut + 2):ncol(ts)]
-      extinct <- final < 1e-6
-      animal_biom <- tail(final, n_cons)
-      
-      out <- data.frame(
-        tot.pers   = sum(!extinct) / model$nb_s,
-        basal.pers = (model$nb_b - sum(extinct[1:n_basal])) / model$nb_b,
-        night.pers = mean(!tail(extinct, n_cons)[diel_group == 'N']),
-        crep.pers = mean(!tail(extinct, n_cons)[diel_group == 'C']),
-        day.pers   = mean(!tail(extinct, n_cons)[diel_group == 'D']),
-        basal.bioms = sum(final[1:n_basal]),
-        night.biom  = sum(animal_biom[diel_group == 'N']),
-        cresp.biom  = sum(animal_biom[diel_group == 'C']),
-        day.biom    = sum(animal_biom[diel_group == 'D']),
-        x = x,
-        light.scenario = light.scenario,
-        temp = temp
+      R.utils::withTimeout({
+        ts <- lsoda_wrapper(times, biomasses, model, verbose = FALSE)
+        final <- ts[nrow(ts), (n_nut + 2):ncol(ts)]
+        extinct <- final < 1e-6
+        animal_biom <- tail(final, n_cons)
+        
+        out <- data.frame(
+          tot.pers   = sum(!extinct) / model$nb_s,
+          basal.pers = (model$nb_b - sum(extinct[1:n_basal])) / model$nb_b,
+          night.pers = mean(!tail(extinct, n_cons)[diel_group == 'N']),
+          crep.pers = mean(!tail(extinct, n_cons)[diel_group == 'C']),
+          day.pers   = mean(!tail(extinct, n_cons)[diel_group == 'D']),
+          basal.bioms = sum(final[1:n_basal]),
+          night.biom  = sum(animal_biom[diel_group == 'N']),
+          cresp.biom  = sum(animal_biom[diel_group == 'C']),
+          day.biom    = sum(animal_biom[diel_group == 'D']),
+          x = x,
+          light.scenario = light.scenario,
+          temp = temp
+        )
+        return(out)
+      }, timeout = 100)
+    },
+    TimeoutException = function(e) {
+      data.frame(
+        tot.pers = NA, basal.pers = NA, night.pers = NA, crep.pers = NA, day.pers = NA,
+        basal.bioms = NA, night.biom = NA, cresp.biom = NA, day.biom = NA,
+        x = x, light.scenario = light.scenario, temp = temp
       )
-      return(out)
-    }, timeout = 100)
-  },
-  TimeoutException = function(e) rep(NA, 12),
-  warning = function(w) rep(NA, 12))
+    },
+    warning = function(w) {
+      data.frame(
+        tot.pers = NA, basal.pers = NA, night.pers = NA, crep.pers = NA, day.pers = NA,
+        basal.bioms = NA, night.biom = NA, cresp.biom = NA, day.biom = NA,
+        x = x, light.scenario = light.scenario, temp = temp
+      )
+    })
 }
+  
+
 
 
 
