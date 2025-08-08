@@ -65,7 +65,7 @@ write.csv(
   combined_results,
   file.path(
     opts$output_dir,
-    paste0("light_effect_", light.effect, "fw_", fw, ".csv")
+    paste0("light_effect_", light.effect, "fw_", rep, ".csv")
   )
 )
 
