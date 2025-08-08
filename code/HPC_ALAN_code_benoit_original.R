@@ -50,15 +50,16 @@ for (light.effect in light.effects) {
     fw = fw
   )
   
-  # Add light.effect and rep info to result
+  # Add light.effect and fw info to result
   res$light.effect <- light.effect
   res$fw <- fw
   
   results_list[[light.effect]] <- res
+  print(sapply(results_list, nrow))
 }
 
 # Combine all results into one data frame
-combined_results <- do.call(rbind, results_list)
+combined_results <- dplyr::bind_rows(results_list, .id = "light.effect")
 
 write.csv(
   combined_results,
