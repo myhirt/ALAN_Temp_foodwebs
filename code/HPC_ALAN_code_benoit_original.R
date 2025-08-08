@@ -52,10 +52,8 @@ for (light.effect in light.effects) {
   
   # Add light.effect and fw info to result
   res$light.effect <- light.effect
-  res$rep <- rep
   
   results_list[[light.effect]] <- res
-  print(sapply(results_list, nrow))
 }
 
 # Combine all results into one data frame
@@ -65,8 +63,8 @@ write.csv(
   combined_results,
   file.path(
     opts$output_dir,
-    paste0("light_effect_", light.effect, "fw_", rep, ".csv")
-  )
+    paste0("fw_", rep, ".csv")
+  ), row.names = F
 )
 
 
