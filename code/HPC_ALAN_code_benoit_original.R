@@ -18,6 +18,7 @@ rep <- params[task]$rep
 light.effect <- params[task]$light.effect
 t1 <- params[task]$t1
 t2 <- params[task]$t2
+S <- params[task]$S
 n_species <- params[task]$n_species
 n_basal <- params[task]$n_basal
 n_nut <- params[task]$n_nut
