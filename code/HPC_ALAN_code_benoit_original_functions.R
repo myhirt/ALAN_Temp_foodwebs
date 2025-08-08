@@ -73,21 +73,21 @@ run.light = function(x, model, light.effect, period){
         animal.bioms = tail(bioms, n_cons)
         basal.ext = sum(extinctions[1:n_basal])
         basal.ext = (model$nb_b - basal.ext)/model$nb_b 
-        tot.ext = sum(!extinctions)/model$nb_s
+        tot.pers = sum(!extinctions)/model$nb_s
         animal.ext = tail(extinctions, n_cons)
-        night.ext = sum(!animal.ext[period == 'N'])/ sum(period == 'N')
-        cresp.ext = sum(!animal.ext[period == 'C'])/ sum(period == 'C')
-        day.ext = sum(!animal.ext[period == 'D'])/ sum(period == 'D')
+        night.pers = sum(!animal.ext[period == 'N'])/ sum(period == 'N')
+        cresp.pers = sum(!animal.ext[period == 'C'])/ sum(period == 'C')
+        day.pers = sum(!animal.ext[period == 'D'])/ sum(period == 'D')
         basal.bioms = sum(bioms[1:n_basal])
         night.biom = sum(animal.bioms[period == "N"])
         cresp.biom = sum(animal.bioms[period == 'C'])
         day.biom = sum(animal.bioms[period == 'D']) 
         model$b = b1
-        to.return = c(tot.ext, basal.ext, night.ext, cresp.ext, day.ext, 
+        to.return = c(tot.pers, basal.pers, night.pers, cresp.pers, day.pers, 
                       basal.bioms, night.biom, cresp.biom, day.biom, x)
         
-        names(to.return) = c("tot.ext", "ext.basals", "ext.night", "ext.cresp", "ext.day", 
-                             "basal_bioms", "night_biom", "cresp_biom", "day_.biom", "x")
+        names(to.return) = c("pers_tot", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
+                             "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x")
         return(to.return)
       }, 
       timeout = 10)
@@ -143,7 +143,7 @@ run.light.gradient = function(light.effect, t1, t2, S, n_basal, n_species, n_nut
   exts.t2 = sapply(light, run.light, model, 
                    light.effect = light.effect, period = period)
   res2 = cbind.data.frame(t(exts.t2), light, t2, light.effect, S, rep)
-  names(res2) = c("tot_ext", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
+  names(res2) = c("pers_tot", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
                   "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x",
                   "light", "temperature", "light.effect", "S", "fw")
   sink(file = 'aaaa',append = T)

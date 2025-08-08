@@ -6,7 +6,7 @@ set.seed(123)
 
 #########  generate parameter list: ###################
 fws = 100
-temps = c(25, 30)
+temps = c(15, 20)
 S.all = c(1)
 n_species <- 60
 n_basal <- 20
