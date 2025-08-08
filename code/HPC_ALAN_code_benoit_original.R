@@ -14,8 +14,7 @@ output_dir <- opts$output_dir
 ## try to get task id
 task <- as.integer(Sys.getenv("SLURM_ARRAY_TASK_ID"))
 
-rep <- params[task]$rep
-light.effect <- params[task]$light.effect
+fw <- params[task]$fw
 t1 <- params[task]$t1
 t2 <- params[task]$t2
 S <- params[task]$S
@@ -27,28 +26,45 @@ masses <- as.numeric(strsplit(params$masses[task], ";")[[1]])
 biomasses <- as.numeric(strsplit(params$biomasses[task], ";")[[1]])
 period <- as.numeric(strsplit(params$period[task], ";")[[1]])
 
+light.effects <- c("N", "C", "C.N", "N.D")
+
 source("HPC_ALAN_code_benoit_original_functions.R")
 
+# Simulations
 set.seed(12)
 
-res = run.light.gradient(light.effect=light.effect, 
-                         t1=t1, 
-                         t2=t2, 
-                         S=S, 
-                         n_basal=n_basal, 
-                         n_species=n_species, 
-                         n_nuts=n_nuts, 
-                         masses = masses, 
-                         biomasses=biomasses, 
-                         period =period,
-                         rep = rep)
+results_list <- list()  # empty list to store results
 
+for (light.effect in light.effects) {
+  res <- run.light.gradient(
+    light.effect = light.effect,
+    t1 = t1,
+    t2 = t2,
+    S = S,
+    n_basal = n_basal,
+    n_species = n_species,
+    n_nuts = n_nut,
+    masses = masses,
+    biomasses = biomasses,
+    period = period,
+    fw = fw
+  )
+  
+  # Add light.effect and rep info to result
+  res$light.effect <- light.effect
+  res$fw <- fw
+  
+  results_list[[light.effect]] <- res
+}
+
+# Combine all results into one data frame
+combined_results <- do.call(rbind, results_list)
 
 write.csv(
   res,
   file.path(
     opts$output_dir,
-    paste0("light_effect_", light.effect, "_", rep, ".csv")
+    paste0("light_effect_", light.effect, "fw_", fw, ".csv")
   )
 )
 

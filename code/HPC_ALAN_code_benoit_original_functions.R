@@ -133,20 +133,20 @@ run.light.gradient = function(light.effect, t1, t2, S, n_basal, n_species, n_nut
   
   exts.t1 = sapply(light, run.light, model, 
                    light.effect = light.effect, period = period)
-  res1 = cbind.data.frame(t(exts.t1), light, t1, light.effect, S, rep)
+  res1 = cbind.data.frame(t(exts.t1), light, t1, light.effect, S, fw)
   names(res1) = c("tot_ext", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
                   "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x", 
-                  "light", "temperature", "light.effect", "S", "replicate")
+                  "light", "temperature", "light.effect", "S", "fw")
   
   model <- initialise_default_Unscaled_nuts(model, L, temperature = t2)
   model$S = rep(S, n_nut)
   model$q = rep(1.2, n_species - n_basal)
   exts.t2 = sapply(light, run.light, model, 
                    light.effect = light.effect, period = period)
-  res2 = cbind.data.frame(t(exts.t2), light, t2, light.effect, S, rep)
+  res2 = cbind.data.frame(t(exts.t2), light, t2, light.effect, S, fw)
   names(res2) = c("tot_ext", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
                   "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x",
-                  "light", "temperature", "light.effect", "S", "replicate")
+                  "light", "temperature", "light.effect", "S", "fw")
   sink(file = 'aaaa',append = T)
   print(names(res1))
   print(dim(res1))
