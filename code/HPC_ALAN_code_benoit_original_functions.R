@@ -46,7 +46,7 @@ overlap.modification = function(x, act.time, effect = "control"){
   return(mat.overlap)
 }
 
-run.light = function(x, model, light.effect, period, n_cons){
+run.light = function(x, model, light.effect, period){
   # This function returns the number of extinctions of a given model 
   # associated with a light intensity x
   # light effect is the scenario: which species types are affected by light pollution
@@ -142,7 +142,7 @@ run.light.gradient = function(light.effect, t1, t2, S, n_basal, n_species, n_nut
   model$S = rep(S, n_nut)
   model$q = rep(1.2, n_species - n_basal)
   exts.t2 = sapply(light, run.light, model, 
-                   light.effect = light.effect, period = period, n_cons = n_cons)
+                   light.effect = light.effect, period = period)
   res2 = cbind.data.frame(t(exts.t2), light, t2, light.effect, S, rep)
   names(res2) = c("tot_ext", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
                   "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x",
