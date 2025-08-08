@@ -72,7 +72,7 @@ run.light = function(x, model, light.effect, period){
         bioms = time.series[nrow(time.series), (n_nut+2):ncol(time.series)]
         animal.bioms = tail(bioms, n_cons)
         basal.ext = sum(extinctions[1:n_basal])
-        basal.ext = (model$nb_b - basal.ext)/model$nb_b 
+        basal.pers = (model$nb_b - basal.ext)/model$nb_b 
         tot.pers = sum(!extinctions)/model$nb_s
         animal.ext = tail(extinctions, n_cons)
         night.pers = sum(!animal.ext[period == 'N'])/ sum(period == 'N')
@@ -133,7 +133,7 @@ run.light.gradient = function(light.effect, t1, t2, S, n_basal, n_species, n_nut
   exts.t1 = sapply(light, run.light, model, 
                    light.effect = light.effect, period = period)
   res1 = cbind.data.frame(t(exts.t1), light, t1, light.effect, S, rep)
-  names(res1) = c("tot_ext", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
+  names(res1) = c("pers_tot", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
                   "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x", 
                   "light", "temperature", "light.effect", "S", "fw")
   
