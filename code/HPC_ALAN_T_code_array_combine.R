@@ -2,7 +2,7 @@
 suppressPackageStartupMessages(library(tidyverse))
 
 # Set the folder path
-folder_path <- "/work/hirtm/ALAN_temp_fw_original"
+folder_path <- "/work/hirtm/ALAN_T_array"
 
 # Get list of all CSV files in the folder
 csv_files <- list.files(path = folder_path, pattern = "\\.csv$", full.names = TRUE)
@@ -13,4 +13,4 @@ combined_df <- csv_files %>%
   bind_rows()
 
 
-write.csv(combined_df, "../output/results_combined.csv")
+write.csv(combined_df, "../output/results_combined.csv", row.names = F)

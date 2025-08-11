@@ -7,15 +7,15 @@
 
 module load foss/2022b R/4.2.2
 
-output_dir=/work/$USER/ALAN_temp_fw_original
+output_dir=/work/$USER/ALAN_T_array
 mkdir -p $output_dir
 
-params=/home/$USER/ALAN_Temp_foodwebs/code/HPC_ALAN_temp_fw_params.csv
+params=/home/$USER/ALAN_Temp_foodwebs/code/HPC_ALAN_T_params.csv
 
 cd /home/$USER/ALAN_Temp_foodwebs/code
 
 Rscript \
   --vanilla \
-  HPC_ALAN_code_benoit_original.R \
+  HPC_ALAN_T_code_array.R \
   $params \
   $output_dir

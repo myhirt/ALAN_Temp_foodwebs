@@ -4,7 +4,7 @@ suppressPackageStartupMessages(library(ATNr))
 suppressPackageStartupMessages(library(data.table))
 suppressPackageStartupMessages(library(docopt))
 
-doc <- "usage: HPC_ALAN_code_benoit_original.R <params> <output_dir>"
+doc <- "usage: HPC_ALAN_T_code_array.R <params> <output_dir>"
 opts <- docopt(doc)
 
 ## read parameter file

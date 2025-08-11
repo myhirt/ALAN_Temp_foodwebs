@@ -57,4 +57,4 @@ params_df <- map_dfr(params, flatten_param)
 as.numeric(strsplit(params_df$masses[1], ";")[[1]])
 
 # Save to CSV
-write.csv(params_df, "HPC_ALAN_temp_fw_params.csv", row.names = FALSE)
+write.csv(params_df, "HPC_ALAN_T_params.csv", row.names = FALSE)
