@@ -172,7 +172,7 @@ run.light.gradient = function(param){
 
 #########  generate parameter list: ###################
 
-reps = 1
+reps = 30
 effects = c('N', 'C', 'C.N', 'N.D')
 temps = c(15, 20)
 S.all = c(1)
@@ -223,5 +223,5 @@ xx = lapply(params, FUN = wrapper.run.light.gradient)
 
 yy = do.call(rbind, xx)
 
-write.csv(yy, "ALAN_T_results.csv", row.names = F)
+write.csv(yy, "../output/ALAN_T_results.csv", row.names = F)
 

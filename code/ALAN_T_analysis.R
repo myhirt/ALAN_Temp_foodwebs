@@ -4,8 +4,8 @@ library(rstudioapi)
 
 setwd(dirname(getActiveDocumentContext()$path))
 
-res <- read.csv("../output/results_combined.csv")
+res <- read.csv("../output/ALAN_T_results.csv")
 
 
-ggplot(filter(res, temperature == "15"), aes(x = light, y = pers_tot, color = as.factor(light.effect))) +
+ggplot(filter(res, temperature == "20"), aes(x = light, y = tot_ext, color = as.factor(light.effect))) +
   geom_smooth(method = "lm")
