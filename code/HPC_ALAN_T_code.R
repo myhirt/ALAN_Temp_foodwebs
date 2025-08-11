@@ -223,11 +223,5 @@ xx = lapply(params, FUN = wrapper.run.light.gradient)
 
 yy = do.call(rbind, xx)
 
-write.csv(
-  yy,
-  file.path(
-    opts$output_dir,
-    "ALAN_T_results.csv"
-  ), row.names = F
-)
+write.csv(yy, "ALAN_T_results.csv", row.names = F)
 
