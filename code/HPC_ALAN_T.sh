@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=ALAN_temp_fw_benoit
+#SBATCH --job-name=ALAN_T
 #SBATCH --output=/work/%u/%x-%A-%a.out
 #SBATCH --time=0-10:00:00
 #SBATCH --mem-per-cpu=2G
