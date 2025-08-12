@@ -28,7 +28,7 @@ period <- as.numeric(strsplit(params$period[task], ";")[[1]])
 
 light.effects <- c("N", "C", "C.N", "N.D")
 
-source("HPC_ALAN_T_code_array.R")
+source("HPC_ALAN_T_array_functions.R")
 
 # Simulations
 set.seed(12)
