@@ -102,3 +102,3003 @@
  [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
 [11] "light"        "temperature"  "light.effect" "S"            "replicate"   
 [1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "tot_ext"      "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "replicate"   
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
+ [1] "pers_tot"     "pers_basals"  "pers_night"   "pers_cresp"   "pers_day"    
+ [6] "basal_bioms"  "night_biom"   "cresp_biom"   "day_biom"     "x"           
+[11] "light"        "temperature"  "light.effect" "S"            "fw"          
+[1] 11 15
