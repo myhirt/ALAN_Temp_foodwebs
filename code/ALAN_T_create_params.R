@@ -2,7 +2,7 @@ library(rstudioapi)
 
 setwd(dirname(getActiveDocumentContext()$path))
 
-set.seed(123)
+set.seed(12)
 
 #########  generate parameter list: ###################
 fws = 100
