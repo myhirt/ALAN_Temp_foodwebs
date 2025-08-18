@@ -121,6 +121,7 @@ run.light.gradient = function(param){
   # create the 0/1 version of the food web
   fw <- L
   fw[fw > 0] <- 1
+  connectance = sum(fw)/(n_species*n_species)
   model <- create_model_Unscaled_nuts(param$n_species, param$n_basal, param$n_nut, param$masses, fw)
   
   light = seq(0, 0.5, by = 0.05)
@@ -138,20 +139,20 @@ run.light.gradient = function(param){
   
   exts.t1 = sapply(light, run.light, model, 
                      light.effect = param$light.effect, period = param$period)
-  res1 = cbind.data.frame(t(exts.t1), light, param$t1, param$light.effect, param$S, param$rep)
+  res1 = cbind.data.frame(t(exts.t1), light, param$t1, param$light.effect, param$S, param$rep, connectance)
   names(res1) = c("tot_ext", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
                   "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x", 
-                  "light", "temperature", "light.effect", "S", "replicate")
+                  "light", "temperature", "light.effect", "S", "replicate", "connectance")
   
   model <- initialise_default_Unscaled_nuts(model, L, temperature = param$t2)
   model$S = rep(param$S, param$n_nut)
   model$q = rep(1.2, n_species - n_basal)
   exts.t2 = sapply(light, run.light, model, 
                      light.effect = param$light.effect, period = param$period)
-  res2 = cbind.data.frame(t(exts.t2), light, param$t2, param$light.effect, param$S, param$rep)
+  res2 = cbind.data.frame(t(exts.t2), light, param$t2, param$light.effect, param$S, param$rep, connectance)
   names(res2) = c("tot_ext", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
                   "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x",
-                  "light", "temperature", "light.effect", "S", "replicate")
+                  "light", "temperature", "light.effect", "S", "replicate", "connectance")
   sink(file = 'aaaa',append = T)
   print(names(res1))
   print(dim(res1))
