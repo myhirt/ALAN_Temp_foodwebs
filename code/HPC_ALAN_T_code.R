@@ -1,7 +1,5 @@
 library(ATNr)
 library(parallel)
-set.seed(12)
-
 
 ############ functions #################
 
@@ -66,7 +64,7 @@ run.light = function(x, model, light.effect, period){
   new.basals = sum(colSums(model$b) == 0)
   if (new.basals > 0){print(new.basals)}
   # running dynamics
-  times <- seq(0, 100000, 100)
+  times <- seq(0, 10000, 100)
   
   sol = tryCatch(
     {
@@ -153,12 +151,12 @@ run.light.gradient = function(param){
   names(res2) = c("tot_ext", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
                   "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x",
                   "light", "temperature", "light.effect", "S", "replicate", "connectance")
-  sink(file = 'aaaa',append = T)
-  print(names(res1))
-  print(dim(res1))
-  print(names(res2))
-  print(dim(res2))
-  sink()
+  # sink(file = 'aaaa',append = T)
+  # print(names(res1))
+  # print(dim(res1))
+  # print(names(res2))
+  # print(dim(res2))
+  # sink()
   res = rbind.data.frame(res1,res2)
   # fname = paste("share/groups/tib/ALAN_food_webs/results_ind/", as.character(param$id), sep = '')
   # write.table(res, fname, row.names = F, col.names = F, sep = ",")
@@ -190,6 +188,9 @@ period = sample(types, n_cons, replace = TRUE, prob = probs)
 # each elements contains all parameters for a simulation
 params = list()
 n = 0
+
+set.seed(12)
+
 for (i in 1:reps){
   masses <- 10 ^ c(sort(runif(n_basal, 0, 3)),
                    sort(runif(n_species - n_basal, 2, 5)))

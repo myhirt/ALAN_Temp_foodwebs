@@ -57,7 +57,7 @@ for (light.effect in light.effects) {
 }
 
 # Combine all results into one data frame
-combined_results <- dplyr::bind_rows(results_list, .id = "light.effect")
+combined_results <- do.call(rbind, results_list)
 
 write.csv(
   combined_results,
