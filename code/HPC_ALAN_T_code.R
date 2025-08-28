@@ -1,6 +1,8 @@
 library(ATNr)
 library(parallel)
 
+set.seed(12)
+
 ############ functions #################
 
 overlap.modification = function(x, act.time, effect = "control"){
@@ -165,8 +167,6 @@ period = sample(types, n_cons, replace = TRUE, prob = probs)
 # each elements contains all parameters for a simulation
 params = list()
 n = 0
-
-set.seed(12)
 
 for (i in 1:reps){
   masses <- 10 ^ c(sort(runif(n_basal, 0, 3)),

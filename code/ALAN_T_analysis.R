@@ -18,7 +18,6 @@ ggplot(res.array, aes(x = light, y = pers_tot, color = as.factor(temperature))) 
   facet_wrap(~light.effect) +
   theme_classic()
 
-ggplot(res.array, aes(x = light, y = night_biom, color = as.factor(temperature))) +
+ggplot(filter(res.array, temperature == "15"), aes(x = light, y = pers_tot, color = as.factor(light.effect))) +
   geom_smooth(method = "lm") +
-  facet_wrap(~light.effect) +
   theme_classic()
