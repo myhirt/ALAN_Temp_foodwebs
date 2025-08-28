@@ -26,7 +26,7 @@ masses <- as.numeric(strsplit(params$masses[task], ";")[[1]])
 biomasses <- as.numeric(strsplit(params$biomasses[task], ";")[[1]])
 period <- period <- strsplit(params$period[task], ";")[[1]]
 
-light.effects <- c("control", "N", "C", "C.N", "N.D")
+light.effects <- c("N", "C", "C.N", "N.D")
 
 source("HPC_ALAN_T_array_functions.R")
 
