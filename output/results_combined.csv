@@ -1,4 +1,4 @@
-"pers_tot","pers_basals","pers_night","pers_cresp","pers_day","basal_bioms","night_biom","cresp_biom","day_biom","x","light","temperature","light.effect","S","fw","connectance"
+"tot_ext","pers_basals","pers_night","pers_cresp","pers_day","basal_bioms","night_biom","cresp_biom","day_biom","x","light","temperature","light.effect","S","replicate","connectance"
 0.716666666666667,0.5,0.6,0.923076923076923,1,7.02241731242454,1.33439996340234,0.899329782631733,1.76360528825497,0,0,15,"N",1,1,0.274166666666667
 0.733333333333333,0.5,0.6,1,1,6.96780516640317,1.3530721138905,1.0038606527945,1.74530687003717,0.05,0.05,15,"N",1,1,0.274166666666667
 0.733333333333333,0.5,0.6,1,1,6.91471923809699,1.34229807548794,1.09173927235767,1.73313428421247,0.1,0.1,15,"N",1,1,0.274166666666667
