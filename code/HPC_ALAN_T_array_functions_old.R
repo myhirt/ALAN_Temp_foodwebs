@@ -1,3 +1,4 @@
+############ functions #################
 
 overlap.modification = function(x, act.time, effect = "control"){
   # update the "time overlap matrix"
@@ -83,21 +84,19 @@ run.light = function(x, model, light.effect, period){
   )
 }
 
-
-run.light.gradient = function(param){
+run.light.gradient = function(light.effect, t1, t2, S, n_basal, n_species, n_nuts, masses, biomasses, period, rep){
   # run a light intensity gradient at 2 temperatures, 
-  
   # create the L matrix
-  L <- create_Lmatrix(param$masses, param$n_basal, Ropt = 100, gamma = 2, th = 0.01)
+  L <- create_Lmatrix(masses, n_basal, Ropt = 100, gamma = 2, th = 0.01)
   # create the 0/1 version of the food web
   fw <- L
   fw[fw > 0] <- 1
-  connectance = sum(fw)/(n_species*n_species)
-  model <- create_model_Unscaled_nuts(param$n_species, param$n_basal, param$n_nut, param$masses, fw)
+  connectance <- sum(fw)/(n_species*n_species)
+  model <- create_model_Unscaled_nuts(n_species, n_basal, n_nut, masses, fw)
   
   light = seq(0, 0.5, by = 0.05)
-  model <- initialise_default_Unscaled_nuts(model, L, temperature = param$t1)
-  model$S = rep(param$S, param$n_nut)
+  model <- initialise_default_Unscaled_nuts(model, L, temperature = t1)
+  model$S = rep(S, n_nut)
   model$q = rep(1.2, n_species - n_basal)
   
   # test if the separation btween nocturnal and diurnal lead to some new basal species
@@ -109,21 +108,21 @@ run.light.gradient = function(param){
   if (any(colSums(b2) == 0.0)){return(NULL)}
   
   exts.t1 = sapply(light, run.light, model, 
-                   light.effect = param$light.effect, period = param$period)
-  res1 = cbind.data.frame(t(exts.t1), light, param$t1, param$light.effect, param$S, param$rep, connectance)
-  names(res1) = c("tot_ext", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
+                   light.effect = light.effect, period = period)
+  res1 = cbind.data.frame(t(exts.t1), light, t1, light.effect, S, rep, connectance)
+  names(res1) = c("pers_tot", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
                   "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x", 
-                  "light", "temperature", "light.effect", "S", "replicate", "connectance")
+                  "light", "temperature", "light.effect", "S", "fw", "connectance")
   
-  model <- initialise_default_Unscaled_nuts(model, L, temperature = param$t2)
-  model$S = rep(param$S, param$n_nut)
+  model <- initialise_default_Unscaled_nuts(model, L, temperature = t2)
+  model$S = rep(S, n_nut)
   model$q = rep(1.2, n_species - n_basal)
   exts.t2 = sapply(light, run.light, model, 
-                   light.effect = param$light.effect, period = param$period)
-  res2 = cbind.data.frame(t(exts.t2), light, param$t2, param$light.effect, param$S, param$rep, connectance)
-  names(res2) = c("tot_ext", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
+                   light.effect = light.effect, period = period)
+  res2 = cbind.data.frame(t(exts.t2), light, t2, light.effect, S, rep, connectance)
+  names(res2) = c("pers_tot", "pers_basals", "pers_night", "pers_cresp", "pers_day", 
                   "basal_bioms", "night_biom", "cresp_biom", "day_biom", "x",
-                  "light", "temperature", "light.effect", "S", "replicate", "connectance")
+                  "light", "temperature", "light.effect", "S", "fw", "connectance")
   # sink(file = 'aaaa',append = T)
   # print(names(res1))
   # print(dim(res1))
