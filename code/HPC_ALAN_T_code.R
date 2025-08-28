@@ -16,8 +16,10 @@ overlap.modification = function(x, act.time, effect = "control"){
   mat.overlap = matrix(0, nrow = length(act.time), ncol = length(act.time))
   
   # control
+  if (effect == "N"){
   mat.overlap[mat.act == "D.D" | mat.act == "N.N"] = 1
   mat.overlap[grep('C', mat.act)] = 0.5
+  }
   
   # light only affects nocturnal species
   if (effect == "N"){
@@ -172,8 +174,8 @@ run.light.gradient = function(param){
 #########  generate parameter list: ###################
 
 reps = 30
-effects = c('N', 'C', 'C.N', 'N.D')
-temps = c(15, 20)
+effects = c('N', 'C', 'C.N', 'control')
+temps = c(22, 28)
 S.all = c(1)
 n_species <- 60
 n_basal <- 20
