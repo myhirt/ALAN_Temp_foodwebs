@@ -43,7 +43,7 @@ for (light.effect in light.effects) {
     S = S,
     n_basal = n_basal,
     n_species = n_species,
-    n_nuts = n_nut,
+    n_nut = n_nut,
     masses = masses,
     biomasses = biomasses,
     period = period,
